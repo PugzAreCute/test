@@ -12,7 +12,10 @@ hero:
     - theme: alt
       text: Go Back
       link: ../index
-
+features:
+  - title: Build Guide
+    description: Simple Android Build Guide with General steps to get started.
+    link: ./building-101
 #features:
 #  - icon: We'll fill these later as we're doing the migration
 #    title: 
